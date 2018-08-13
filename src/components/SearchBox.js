@@ -8,7 +8,7 @@ const SearchBox = ({ searchfield, searchChange }) => {
         type='search'
         placeholder='search robots'
         onChange={searchChange}
-        label=''
+        label='search robots'
       />
     </div>
   );
